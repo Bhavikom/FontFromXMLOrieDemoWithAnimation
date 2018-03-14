@@ -1,0 +1,32 @@
+<!--
+  ~ Copyright 2017 Nazmul Idris. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Rocket Launch 🚀</string>
+    <string name="title_no_animation">No animation</string>
+    <string name="title_launch_rocket_1">Launch a rocket 1 (LinearInterpolation)</string>
+    <string name="title_spin_rocket">Rotate a rocket (FastOutSlowInInterpolator)</string>
+    <string name="title_launch_rocket_2">Launch a rocket 2 (AccelerateInterpolator)</string>
+    <string name="title_launch_rocket_3">Launch a rocket 3 (ObjectAnimator, AccelerateInterpolator)
+    </string>
+    <string name="title_color_animation">Background color (object animator)</string>
+    <string name="launch_spin_1">Launch and spin (AnimatorSet)</string>
+    <string name="launch_spin_2">Launch and spin (ViewPropertyAnimator)</string>
+    <string name="title_with_doge">Don\'t leave Doge behind (AnticipateInterpolator)</string>
+    <string name="title_animation_listeners">Animation Listeners</string>
+    <string name="title_animation_options">Animation options, set, repeat, count</string>
+    <string name="title_jump_and_blink">Animations in XML</string>
+</resources>
